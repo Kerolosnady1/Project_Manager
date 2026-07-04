@@ -230,3 +230,9 @@ E:\C#\Event_Project\obj\Debug\net10.0-windows\refint\JOE_Event_Demo.dll
 E:\C#\Event_Project\obj\Debug\net10.0-windows\JOE_Event_Demo.pdb
 E:\C#\Event_Project\obj\Debug\net10.0-windows\Event_Project.genruntimeconfig.cache
 E:\C#\Event_Project\obj\Debug\net10.0-windows\ref\JOE_Event_Demo.dll
+E:\C#\Event_Project\obj\Debug\net10.0-windows\Event_Project_Demo_KN.Form1.resources
+E:\C#\Event_Project\obj\Debug\net10.0-windows\Event_Project_Demo_KN.Form2.resources
+E:\C#\Event_Project\obj\Debug\net10.0-windows\Event_Project_Demo_KN.Form3.resources
+E:\C#\Event_Project\obj\Debug\net10.0-windows\Event_Project_Demo_KN.Form4.resources
+E:\C#\Event_Project\obj\Debug\net10.0-windows\Event_Project_Demo_KN.Form5.resources
+E:\C#\Event_Project\obj\Debug\net10.0-windows\Event_Project.sourcelink.json

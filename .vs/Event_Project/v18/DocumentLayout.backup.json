@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "E:\\C#\\Event_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|E:\\C#\\Event_Project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|e:\\c#\\event_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|E:\\C#\\Event_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|e:\\c#\\event_project\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|JOE_Event_Demo.csproj|E:\\C#\\Event_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|JOE_Event_Demo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|e:\\c#\\event_project\\databasetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|E:\\C#\\Event_Project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|e:\\c#\\event_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|e:\\c#\\event_project\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|E:\\C#\\Event_Project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|JOE_Event_Demo.csproj|E:\\C#\\Event_Project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|JOE_Event_Demo.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|E:\\C#\\Event_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|Event_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|JOE_Event_Demo.csproj|E:\\C#\\Event_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B47DCEE7-C829-F59D-132D-5BA3475EDC3E}|JOE_Event_Demo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Form5.cs",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
@@ -101,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form4.cs",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Form3.cs",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Form2.cs",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -140,30 +140,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\mtm\\Downloads\\Event_Project_Demo-KN\\Event_Project_Demo-KN\\Event_Project\\Event_Project\\Form2.cs [Design]",
+              "ToolTip": "E:\\C#\\Event_Project\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T21:58:35.661Z"
+              "WhenOpened": "2026-05-27T21:58:35.661Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\C#\\Event_Project\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAIwF0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAZmZmZmYewCYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T21:58:28.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DatabaseTester.cs",
               "DocumentMoniker": "E:\\C#\\Event_Project\\DatabaseTester.cs",
               "RelativeDocumentMoniker": "DatabaseTester.cs",
@@ -171,12 +173,11 @@
               "RelativeToolTip": "DatabaseTester.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T21:56:29.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T21:56:29.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
@@ -186,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -197,17 +198,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mtm\\Downloads\\Event_Project_Demo-KN\\Event_Project_Demo-KN\\Event_Project\\Event_Project\\Form1.cs [Design]",
+              "ToolTip": "E:\\C#\\Event_Project\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T21:56:01.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
@@ -218,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -229,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -240,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "E:\\C#\\Event_Project\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -250,16 +252,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "E:\\C#\\Event_Project\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "DatabaseHelper.cs",
               "ToolTip": "E:\\C#\\Event_Project\\DatabaseHelper.cs",
               "RelativeToolTip": "DatabaseHelper.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAYwAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAmJmZmZkhwCYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T20:11:08.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T20:11:08.893Z"
             }
           ]
         }

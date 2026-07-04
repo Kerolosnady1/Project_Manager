@@ -75,19 +75,7 @@ namespace Event_Project
             }
         }
 
-        private bool TryGetValidExePath(out string path)
-        {
-            path = string.Empty;
-            using (OpenFileDialog ofd = new OpenFileDialog() { Filter = "Executable Files (*.exe)|*.exe" })
-            {
-                if (ofd.ShowDialog() == DialogResult.OK)
-                {
-                    path = ofd.FileName;
-                    return true;
-                }
-            }
-            return false;
-        }
+        
 
         private void BtnAdd_Click(object sender, EventArgs e)
         {
@@ -167,7 +155,19 @@ namespace Event_Project
             }
             catch (Exception ex) { MessageBox.Show("Database Delete Error: " + ex.Message); }
         }
-
+        private bool TryGetValidExePath(out string path)
+        {
+            path = string.Empty;
+            using (OpenFileDialog ofd = new OpenFileDialog() { Filter = "Executable Files (*.exe)|*.exe" })
+            {
+                if (ofd.ShowDialog() == DialogResult.OK)
+                {
+                    path = ofd.FileName;
+                    return true;
+                }
+            }
+            return false;
+        }
         private void LstProjects_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (lstProjects.SelectedIndex != -1)
@@ -179,3 +179,4 @@ namespace Event_Project
         }
     }
 }
+          
